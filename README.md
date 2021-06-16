@@ -1,1 +1,4 @@
-# hello-world
+# hello- 
+Hello
+Imi place programarea si IT
+lovee
